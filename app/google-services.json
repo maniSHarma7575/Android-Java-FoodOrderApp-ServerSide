@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "283111459656",
+    "firebase_url": "https://bhandaraserver.firebaseio.com",
+    "project_id": "bhandaraserver",
+    "storage_bucket": "bhandaraserver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283111459656:android:431b627983cdd392",
+        "android_client_info": {
+          "package_name": "com.example.bhandaraserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283111459656-opqh99d0gh34q0g22uaq0fo7m6jdeegu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bhandaraserver",
+            "certificate_hash": "7cc8049407d98cb5f0f5ec32fa657e4ce44c68a7"
+          }
+        },
+        {
+          "client_id": "283111459656-ltfdm7e8j144b9b0dkosjktbkpcnm718.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9x0kF7_Inc3Qo-skQkJejd7aptah3uV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283111459656-ltfdm7e8j144b9b0dkosjktbkpcnm718.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
